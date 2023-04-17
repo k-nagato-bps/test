@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+
+data = u"‚±‚ñ‚É‚¿‚Í"
+data.encode("utf-8")
+data.encode("shift-jis")
+data.encode("euc-jp")
